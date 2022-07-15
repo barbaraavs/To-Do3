@@ -1,0 +1,11 @@
+Engenheira de Energia formada pela Universidade Positivo (bolsista ProUni 100%), estudante de Data Analytics pela Resilia Educação e Analista de Operações Júnior no setor de Catálogo do Olist.
+
+Na engenharia, fui bolsista da Fundação Araucária no Instituto de Tecnologia do Paraná (TECPAR) entre 2017-2018, no setor de Informações Tecnológicas, e desenvolvi sob a orientação do Doutor Bill Jorge da Costa, uma pesquisa intitulada "Energias Renováveis no Brasil", com foco em pesquisa teórica da história das energias alternativas no país. Também, trabalhei como estagiária no setor de comissionamento e manutenção de subestações de média e alta tensão, com foco em dimensionamento de equipamentos de proteção e transformação (relés, disjuntores, transformadores, etc) e, com projetos de geração distribuída, com foco em usinas fotovoltaicas. 
+
+Em 2020, desenvolvi em parceria com a Copel Energia, o trabalho de conclusão de curso, sob o tema "Impacto da Micro geração Distribuída no Sistema de Baixa Tensão". Esta pesquisa teve como foco a análise de dados acerca da Subestação Cascavel 13.8 kW, utilizando ferramentas como Tableau e OpenDSS.
+
+Em 2021, fui contemplada com uma bolsa pelo EBANX para estudar Desenvolvimento Web na Resilia Educação, iniciando assim, minha trajetória oficial com o setor tecnológico. Em 2022, retornei para a Resilia, mas agora, na área de dados.
+
+Atualmente, desenvolvo as skils na área de análise de dados, com foco em construção de scripts em Python, análises em SQL (AWS Athena || PostgreSQL), construção de dashbards (DataStudio) e criação de workflows (n8n).
+
+Especialidades: AutoCAD, OpenDSS, Python, SQL, DataStudio, Tableau, GIT, Postman.
